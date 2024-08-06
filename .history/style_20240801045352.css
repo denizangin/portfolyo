@@ -1,0 +1,15 @@
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+
+}
+
+:root{
+    --fs-primary:"source sans pro", sans-serif;
+    --fs-secondary: "source code pro",monospace;
+
+    --
+
+
+}
